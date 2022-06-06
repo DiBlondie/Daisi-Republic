@@ -1,0 +1,34 @@
+.container-a {
+    background-color: blue;
+
+    height: 200px;
+    width: 200px;
+    border: 10px;
+    padding: 20px;
+}
+
+.container-b {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border: 20px;
+    border-style: solid;
+    margin-left: 240px;
+    
+  
+}
+.container-c {
+background-color: red;
+    height: 200px;
+    width: 200px;
+    border: 20px;
+  border-style: solid;
+  margin-left: 480px;
+}
+ body {
+    background-color: aquamarine;
+ }
+
+ .pro {
+     text-decoration: underline ;
+ }
